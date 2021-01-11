@@ -1,5 +1,5 @@
 # Digit-Recognizer-Project
-This is my submission for the Digit Recognizer Project on **Kaggle** using **MNIST** dataset.
+This is my submission for the Digit Recognizer Project on **Kaggle** using **MNIST** dataset. The datasets have been modified a bit to reduce the size for github upload.
 
 **MNIST** is the classic dataset of handwritten images has served as the basis for benchmarking classification algorithms. 
 
